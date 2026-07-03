@@ -1,0 +1,31 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/)",
+    "[Memeburn](https://memeburn.com/)",
+    "[SC Media](https://www.scmagazine.com/)",
+    "[Security Affairs](https://securityaffairs.com/)",
+    "[MIT News](https://news.mit.edu/)",
+    "[Yahoo Finance](https://finance.yahoo.com/)",
+    "[Intelligent CIO](https://www.intelligentcio.com/)",
+    "[citybiz](https://www.citybiz.co/)",
+    "[Superkind.ai](https://superkind.ai/industries/retail)",
+    "[pinksheep.ai](https://www.pinksheep.ai/for/ecommerce)"
+  ],
+  "design_plan": "rng_seed=42; audience=ecommerce_ops; AIDA=pass; hero_lines=2.5; bento_density=grid-auto-flow:dense; competitors_sweep=ok; button_contrast=pass",
+  "generated_at": "2026-07-03T07:21:34.318219+00:00",
+  "headline": "Super for ecommerce operators monitoring orders, support, and repetitive admin",
+  "site_brief": {
+    "audience": "ecommerce operators monitoring orders, support, and repetitive admin",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "ecommerce operators monitoring orders, support, and repetitive admin AI assistant",
+      "ecommerce operators monitoring orders, support, and repetitive admin personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-ecommerce-operators-monitoring-orders-support-an",
+    "title": "Super for ecommerce operators monitoring orders, support, and repetitive admin"
+  },
+  "summary": "A conversion\u2011focused niche landing page for ecommerce operators who live inside Shopify, helpdesks, inboxes, ERPs, and spreadsheets all day. This page positions Super as the sharper alternative for repeated operational workflows by using real computer control and a reusable computer-use cache, with market evidence from 2026 AI agent and workflow automation coverage."
+}
